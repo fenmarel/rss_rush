@@ -1,12 +1,5 @@
-# Welcome to News Reader Demo
+##RSS Rush
 
-* bundle install
-* rake db:migrate
-* rake db:seed
+For those who want to save time and get through all the news of the day.
 
-Three feeds with their entries will be created upon running `rake
-db:seed`.
-
-Good luck. Have fun.
-
-
+More info to follow...
